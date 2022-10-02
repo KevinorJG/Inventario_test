@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\ClownfishSoundTemp\View.exe
+C:\Users\Administrator\Documents\ClownfishSoundTemp\View.dll
+C:\Users\Administrator\Documents\ClownfishSoundTemp\View.deps.json
+C:\Users\Administrator\Documents\ClownfishSoundTemp\View.runtimeconfig.json
+C:\Users\Administrator\Documents\ClownfishSoundTemp\View.pdb
+C:\Users\Administrator\Documents\ClownfishSoundTemp\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\ClownfishSoundTemp\RJCodeAdvance.RJControls.dll
+C:\Users\Administrator\Documents\ClownfishSoundTemp\Controller.dll
+C:\Users\Administrator\Documents\ClownfishSoundTemp\Model.dll
+C:\Users\Administrator\Documents\ClownfishSoundTemp\Controller.pdb
+C:\Users\Administrator\Documents\ClownfishSoundTemp\Model.pdb

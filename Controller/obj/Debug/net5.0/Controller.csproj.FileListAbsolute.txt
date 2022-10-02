@@ -1,0 +1,45 @@
+C:\Users\Administrator\Desktop\Repositorio Github\View\Controller\bin\Debug\net5.0\Controller.deps.json
+C:\Users\Administrator\Desktop\Repositorio Github\View\Controller\bin\Debug\net5.0\Controller.dll
+C:\Users\Administrator\Desktop\Repositorio Github\View\Controller\bin\Debug\net5.0\Controller.pdb
+C:\Users\Administrator\Desktop\Repositorio Github\View\Controller\bin\Debug\net5.0\Model.dll
+C:\Users\Administrator\Desktop\Repositorio Github\View\Controller\bin\Debug\net5.0\Model.pdb
+C:\Users\Administrator\Desktop\Repositorio Github\View\Controller\obj\Debug\net5.0\Controller.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Repositorio Github\View\Controller\obj\Debug\net5.0\Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Repositorio Github\View\Controller\obj\Debug\net5.0\Controller.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Repositorio Github\View\Controller\obj\Debug\net5.0\Controller.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Repositorio Github\View\Controller\obj\Debug\net5.0\Controller.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Repositorio Github\View\Controller\obj\Debug\net5.0\Controller.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Repositorio Github\View\Controller\obj\Debug\net5.0\Controller.dll
+C:\Users\Administrator\Desktop\Repositorio Github\View\Controller\obj\Debug\net5.0\refint\Controller.dll
+C:\Users\Administrator\Desktop\Repositorio Github\View\Controller\obj\Debug\net5.0\Controller.pdb
+C:\Users\Administrator\Desktop\Repositorio Github\View\Controller\obj\Debug\net5.0\ref\Controller.dll
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Controller\bin\Debug\net5.0\Controller.deps.json
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Controller\bin\Debug\net5.0\Controller.dll
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Controller\bin\Debug\net5.0\Controller.pdb
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Controller\bin\Debug\net5.0\Model.dll
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Controller\bin\Debug\net5.0\Model.pdb
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Controller\obj\Debug\net5.0\Controller.csproj.AssemblyReference.cache
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Controller\obj\Debug\net5.0\Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Controller\obj\Debug\net5.0\Controller.AssemblyInfoInputs.cache
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Controller\obj\Debug\net5.0\Controller.AssemblyInfo.cs
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Controller\obj\Debug\net5.0\Controller.csproj.CoreCompileInputs.cache
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Controller\obj\Debug\net5.0\Controller.csproj.CopyComplete
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Controller\obj\Debug\net5.0\Controller.dll
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Controller\obj\Debug\net5.0\refint\Controller.dll
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Controller\obj\Debug\net5.0\Controller.pdb
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Controller\obj\Debug\net5.0\ref\Controller.dll
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Controller\bin\Debug\net5.0\Controller.deps.json
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Controller\bin\Debug\net5.0\Controller.dll
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Controller\bin\Debug\net5.0\Controller.pdb
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Controller\bin\Debug\net5.0\Model.dll
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Controller\bin\Debug\net5.0\Model.pdb
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Controller\obj\Debug\net5.0\Controller.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Controller\obj\Debug\net5.0\Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Controller\obj\Debug\net5.0\Controller.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Controller\obj\Debug\net5.0\Controller.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Controller\obj\Debug\net5.0\Controller.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Controller\obj\Debug\net5.0\Controller.csproj.CopyComplete
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Controller\obj\Debug\net5.0\Controller.dll
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Controller\obj\Debug\net5.0\refint\Controller.dll
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Controller\obj\Debug\net5.0\Controller.pdb
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Controller\obj\Debug\net5.0\ref\Controller.dll

@@ -1,0 +1,7 @@
+Input string was not in a correct format. > 1/10/2022 15:59:35
+Length cannot be less than zero. (Parameter 'length') in Method: LoadProducts => 1/10/2022 18:45:35
+Input string was not in a correct format. in Method: btSave_Click => 1/10/2022 18:45:49
+Length cannot be less than zero. (Parameter 'length') in Method: LoadProducts => 1/10/2022 18:48:14
+Object reference not set to an instance of an object. in Method: btDelete_Click => 1/10/2022 18:48:41
+Input string was not in a correct format. in Method: btSave_Click => 1/10/2022 18:50:23
+Object reference not set to an instance of an object. in Method: btModifi_Click => 1/10/2022 18:50:36

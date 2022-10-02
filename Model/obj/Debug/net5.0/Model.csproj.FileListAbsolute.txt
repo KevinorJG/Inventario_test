@@ -1,0 +1,36 @@
+C:\Users\Administrator\Desktop\Repositorio Github\View\Model\bin\Debug\net5.0\Model.deps.json
+C:\Users\Administrator\Desktop\Repositorio Github\View\Model\bin\Debug\net5.0\Model.dll
+C:\Users\Administrator\Desktop\Repositorio Github\View\Model\bin\Debug\net5.0\Model.pdb
+C:\Users\Administrator\Desktop\Repositorio Github\View\Model\obj\Debug\net5.0\Model.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Repositorio Github\View\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Repositorio Github\View\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Repositorio Github\View\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Repositorio Github\View\Model\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Repositorio Github\View\Model\obj\Debug\net5.0\Model.dll
+C:\Users\Administrator\Desktop\Repositorio Github\View\Model\obj\Debug\net5.0\refint\Model.dll
+C:\Users\Administrator\Desktop\Repositorio Github\View\Model\obj\Debug\net5.0\Model.pdb
+C:\Users\Administrator\Desktop\Repositorio Github\View\Model\obj\Debug\net5.0\ref\Model.dll
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Model\bin\Debug\net5.0\Model.deps.json
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Model\bin\Debug\net5.0\Model.dll
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Model\bin\Debug\net5.0\Model.pdb
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Model\obj\Debug\net5.0\Model.csproj.AssemblyReference.cache
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Model\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Model\obj\Debug\net5.0\Model.dll
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Model\obj\Debug\net5.0\refint\Model.dll
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Model\obj\Debug\net5.0\Model.pdb
+C:\Users\Leandro Leiva\Downloads\Paralelo\07 Septiembre\Model\obj\Debug\net5.0\ref\Model.dll
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Model\bin\Debug\net5.0\Model.deps.json
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Model\bin\Debug\net5.0\Model.dll
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Model\bin\Debug\net5.0\Model.pdb
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Model\obj\Debug\net5.0\Model.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Model\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Model\obj\Debug\net5.0\Model.dll
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Model\obj\Debug\net5.0\refint\Model.dll
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Model\obj\Debug\net5.0\Model.pdb
+C:\Users\Administrator\Downloads\Tarea_07\Tarea 07\Model\obj\Debug\net5.0\ref\Model.dll
