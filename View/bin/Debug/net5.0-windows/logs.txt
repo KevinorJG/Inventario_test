@@ -5,3 +5,6 @@ Length cannot be less than zero. (Parameter 'length') in Method: LoadProducts =>
 Object reference not set to an instance of an object. in Method: btDelete_Click => 1/10/2022 18:48:41
 Input string was not in a correct format. in Method: btSave_Click => 1/10/2022 18:50:23
 Object reference not set to an instance of an object. in Method: btModifi_Click => 1/10/2022 18:50:36
+Failure sending mail. in Method: SentEmail => 1/10/2022 21:48:35
+Failure sending mail. in Method: SentEmail => 1/10/2022 21:52:27
+Length cannot be less than zero. (Parameter 'length') in Method: LoadProducts => 2/10/2022 00:43:21
