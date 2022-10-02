@@ -35,6 +35,7 @@
             this.ItemSearch = new System.Windows.Forms.ToolStripMenuItem();
             this.informaciónToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.erroreslogsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.enviarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.MnStrip.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -43,7 +44,8 @@
             this.MnStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.catalogoToolStripMenuItem,
             this.ItemSearch,
-            this.informaciónToolStripMenuItem});
+            this.informaciónToolStripMenuItem,
+            this.enviarToolStripMenuItem});
             this.MnStrip.Location = new System.Drawing.Point(0, 0);
             this.MnStrip.Name = "MnStrip";
             this.MnStrip.Size = new System.Drawing.Size(629, 24);
@@ -90,6 +92,13 @@
             this.erroreslogsToolStripMenuItem.Text = "Errores (logs)";
             this.erroreslogsToolStripMenuItem.Click += new System.EventHandler(this.erroreslogsToolStripMenuItem_Click);
             // 
+            // enviarToolStripMenuItem
+            // 
+            this.enviarToolStripMenuItem.Name = "enviarToolStripMenuItem";
+            this.enviarToolStripMenuItem.Size = new System.Drawing.Size(51, 20);
+            this.enviarToolStripMenuItem.Text = "Enviar";
+            this.enviarToolStripMenuItem.Click += new System.EventHandler(this.enviarToolStripMenuItem_Click);
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -119,5 +128,6 @@
         private System.Windows.Forms.ToolStripMenuItem ItemSearch;
         private System.Windows.Forms.ToolStripMenuItem informaciónToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem erroreslogsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem enviarToolStripMenuItem;
     }
 }

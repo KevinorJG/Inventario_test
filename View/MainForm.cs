@@ -11,6 +11,9 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using View.UserControls;
 using System.IO;
+using Model.Entities;
+using Model.Logs;
+using System.Threading;
 
 namespace View
 {
@@ -78,7 +81,31 @@ namespace View
 
         private void MainForm_Load(object sender, EventArgs e)
         {
-            var st = System.Reflection.Assembly.GetExecutingAssembly().CodeBase;
+            //var st = System.Reflection.Assembly.GetExecutingAssembly().CodeBase;
+        }
+
+        private async void enviarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            string[] ar = new string[2];
+            ar[0] = @"C:\Users\Administrator\Pictures\347185497023211.webp";
+            ar[1] = @"C:\Users\Administrator\Pictures\xdg.jpg";
+            Mail mail = new Mail()
+            {
+                Email = "kevinjair2003@gmail.com",
+                Subject = "Ultima prueba",
+                Body = $"<H1>Hola, esto es otra prueba con varios archivos<H1>",
+                File = ar,
+
+            };
+            MailController mailController = new MailController(mail);
+            var Task_Status = mailController.SentEmail();
+            await Task_Status;         
+            if (Task_Status.IsCompleted)
+            {
+                View.MessageBox.RJMessageBox.Show($"Email enviado correctamente",
+                "Exito", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            
         }
     }
 }
